@@ -13,7 +13,7 @@
 
 <h4>Tempat lahir</h4>
 <ul type="none">
-    <li>cirebon</li>
+    <li>pontianak</li>
 </ul>
 
 <h4>olahraga favorit</h4>
